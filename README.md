@@ -1,6 +1,6 @@
-# 🚀 Next.js Dashboard Project 🎉
+# 🚀 Next.js Sales Dashboard Project 🎉
 
-Welcome to our awesome Next.js Dashboard project! This repository contains a feature-rich dashboard application built with Next.js, React, and TypeScript. Let's dive in! 🏊‍♂️
+Welcome to my awesome Next.js Sales Dashboard project! This repository contains a feature-rich dashboard application built with Next.js, React, and TypeScript. Let's dive in! 🏊‍♂️
 
 ## 🌟 Features
 
